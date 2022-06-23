@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = "/run/user/1000/gvfs/smb-share:server=10.0.0.10,share=vedev/@dataset/testDvcRemote"
